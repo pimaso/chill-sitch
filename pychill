@@ -18,7 +18,8 @@ BANDS = [
             "Sam Cooke",
             "Carole King",
             "Bob Marley",
-            "Wilco"
+            "Wilco",
+            "Bagzana"
         ]
 
 # ;)
@@ -32,11 +33,12 @@ PLACES = [
             "low-cost local music event",
             "beer tasting event",
             "friend's bbq",
-            "lazy river"
+            "lazy river",
+            "zaza club"
          ]
 
 # ;)
-EMOTICONS = [ ";)" ]
+EMOTICONS = [ ";)", ":D" ]
 
 # ;)
 EXPRESSIONS = [
@@ -45,7 +47,8 @@ EXPRESSIONS = [
                 "aw yeah",
                 "feels right",
                 "emotions just right",
-                "everything just right"
+                "everything just right",
+                "minanaky marina"
               ]
 
 # ;)
@@ -55,7 +58,8 @@ BEER_BRANDS = [
                 "Corona",
                 "Corona",
                 "Corona",
-                "Corona"
+                "Corona",
+                "Gold 8"
               ]
 
 # ;)
@@ -70,7 +74,8 @@ GOOD_THINGS = [
                 "snorkeling for the first time",
                 "talking to Sade about her trip to Costa Rica",
                 "discovering $5 in my pocket and giving it away",
-                "an unexpected sunset"
+                "an unexpected sunset",
+                "zoma manifika"
               ]
 
 saying = """
